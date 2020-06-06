@@ -1,31 +1,37 @@
-Usage
-#####################
+<h1>Usage</h1>
 
 You need AutoHotKey to use this script.
 All shortcuts in this script use the rarely used CapsLock key.
-Just CapsLock -> Nothing
-CapsLock + Key -> Action
-Double-click CapsLock -> Toggle CapsLock
+<ul>
+<li>Just CapsLock -> Nothing
+<li>CapsLock + Key -> Action
+<li>Double-click CapsLock -> Toggle CapsLock
+</ul>
 
 I'll refer to CapsLock as CL from now on.
 
-Easy Navigation:
+<h2>Easy Navigation:</h2>
+<ul>
+<li>CL + j -> Down 
+<li>CL + k -> Up
+<li>CL + h -> Left
+<li>CL + l -> Right
+</ul>
 
-CL + j -> Down 
-CL + k -> Up
-CL + h -> Left
-CL + l -> Right
+<h2>Desktop Switching:</h2>
 
-Desktop Switching:
+<ul>
+<li>CL + i -> Right Desktop (Ctrl + Win + Right)
+<li>CL + u -> Left Desktop (Ctrl + Win + Left)
+</ul>
 
-CL + i -> Right Desktop (Ctrl + Win + Right)
-CL + u -> Left Desktop (Ctrl + Win + Left)
+<h2>Miscellanous:</h2>
 
-Miscellanous:
-
-CL + r -> Build & Run for Visual Studio and alike (Ctrl + R)
-CL + q -> Quit Application (Alt + F4)
-CL + g -> Google the selected text
+<ul>
+<li>CL + r -> Build & Run for Visual Studio and alike (Ctrl + R)
+<li>CL + q -> Quit Application (Alt + F4)
+<li>CL + g -> Google the selected text
+</ul>
 
 
 More shortcuts will be added in the future. Feel free to create an issue for any shortcut you want to be added.
