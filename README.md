@@ -25,6 +25,13 @@ I'll refer to CapsLock as CL from now on.
 <li>CL + u -> Left Desktop (Ctrl + Win + Left)
 </ul>
 
+<h2>Media Controls:</h2>
+
+<ul>
+<li> CL + Space -> Pause / Play
+<li> CL + m -> Mute Audio
+</ul>
+
 <h2>Miscellanous:</h2>
 
 <ul>

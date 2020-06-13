@@ -28,7 +28,7 @@ return
 ; Vim-like navigation arrows
 ;================================================================================================
 ;Down key
-psLock & j::
+CapsLock & j::
     Send {Down}
 Return
 
@@ -79,7 +79,22 @@ CapsLock & g::
     Run, http://www.google.com/search?q=%clipboard%             ; Launch with contents of clipboard
     ClipboardRestore()
 Return
-;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+;================================================================================================
+; Media Controls
+;================================================================================================
+
+; Mute
+CapsLock & m::
+    Send {Volume_Mute}
+Return
+
+; Pause
+CapsLock & Space::
+    Send {Media_Play_Pause}
+Return
+
+;++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ;================================================================================================
 ; Clipboard helper functions.
