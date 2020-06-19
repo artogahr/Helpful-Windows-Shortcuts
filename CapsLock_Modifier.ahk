@@ -16,6 +16,10 @@ CapsLock::
         {
         SetCapsLockState, % GetKeyState("CapsLock","T") ? "Off" : "On"  ; Toggle the state of CapsLock LED
         }
+    else
+    {
+        Send {Esc}
+    }
 return
 
 

@@ -3,7 +3,7 @@
 You need AutoHotKey to use this script.
 All shortcuts in this script use the rarely used CapsLock key.
 <ul>
-<li>Just CapsLock -> Nothing
+<li>Just CapsLock -> Escape (Useful for vim users and in general makes Escape easier to reach)
 <li>CapsLock + Key -> Action
 <li>Double-click CapsLock -> Toggle CapsLock
 </ul>
