@@ -38,6 +38,7 @@ I'll refer to CapsLock as CL from now on.
 <li>CL + r -> Build & Run for Visual Studio and alike (Ctrl + R)
 <li>CL + q -> Quit Application (Alt + F4)
 <li>CL + g -> Google the selected text
+<li>CL + t -> <a href="https://github.com/microsoft/terminal">Open Windows Terminal</a>
 </ul>
 
 

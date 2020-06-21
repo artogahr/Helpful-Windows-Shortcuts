@@ -77,6 +77,12 @@ CapsLock & q::
     Send !{F4}
 Return
 
+;Open Windows Terminal
+
+CapsLock & t::
+	Run, wt
+Return
+
 ; GOOGLE the selected text.
 CapsLock & g::
     ClipboardGet()
