@@ -35,6 +35,7 @@ I'll refer to CapsLock as CL from now on.
 <h2>Miscellanous:</h2>
 
 <ul>
+<li>CL + [ -> Escape
 <li>CL + r -> Build & Run for Visual Studio and alike (Ctrl + R)
 <li>CL + q -> Quit Application (Alt + F4)
 <li>CL + g -> Google the selected text

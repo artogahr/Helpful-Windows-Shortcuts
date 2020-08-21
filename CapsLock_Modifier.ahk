@@ -79,6 +79,11 @@ CapsLock & t::
 	Run, wt
 Return
 
+;Easy access to escape key
+CapsLock & [::
+    Send, {Esc}
+Return
+
 ; GOOGLE the selected text.
 CapsLock & g::
     ClipboardGet()
