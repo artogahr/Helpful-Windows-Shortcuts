@@ -1,7 +1,8 @@
 <h1>Usage</h1>
 
-You need AutoHotKey to use this script.
+You need AutoHotKey and Windows to use this script.
 All shortcuts in this script use the rarely used CapsLock key.
+To use CapsLock functionality, double-click CapsLock.
 <ul>
 <li>Just CapsLock -> Nothing
 <li>CapsLock + Key -> Action
