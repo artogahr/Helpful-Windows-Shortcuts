@@ -1,4 +1,5 @@
 <h1>Usage</h1>
+Github arayuzu edit
 
 You need AutoHotKey and Windows to use this script.
 All shortcuts in this script use the rarely used CapsLock key.
